@@ -11,4 +11,16 @@ Performance Metrics: Calculates and displays typing speed (WPM), accuracy, total
 Modern GUI: Utilizes customtkinter for a sleek and modern look.
 
 Installation:
+
 Clone the repository:
+https://github.com/TencerDe/Typing-Speed-Test
+
+Install the required module/package:
+pip install customtkinter
+
+run main.py file in your code editor or cmd to start the application
+python main.py
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+
+Feel free to customize the description, features, installation instructions, usage guide, and other sections to match your specific project details.
